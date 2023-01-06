@@ -1,3 +1,3 @@
-# alura_midi
-# alura_midi
-# aluramid
+# Alura Mid
+
+### Projeto de deck de sons 
